@@ -3,6 +3,6 @@
 ## Hook and Rubric Documents
 The two attached PDFs include both the Prompt and Deliverable for the case study as well as a Rubric to follow in order to meet all requirements successfully.
 ## Data
-The necessary data is located in the "Data" folder and includes both a cleaned dataset to be used for your model as well as the original and complete US Department of Education data.
+The necessary US Department of Education data is located in the "Data" folder, which is the dataset to be used for the model.
 ## Materials
-The "Materials" folder contains helpful resources related to the context of the topic and tips for time-series regression analysis and developing a predictive model.
+The "Materials" folder contains helpful resources related to the context of the topic and tips for time-series regression analysis.
